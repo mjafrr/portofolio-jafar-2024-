@@ -982,7 +982,7 @@ section {
 --------------------------------------------------------------*/
 
 .services {
-  background-image: url(/assets/img/portfolio/PORTFOLIO.png);
+  background-image: url(../portfolio/PORTFOLIO.png);
   background-attachment: fixed;
   background-size: cover;
 }
