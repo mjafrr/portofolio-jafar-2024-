@@ -561,7 +561,7 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts  {
-    background-image: url(/assets/img/AWARDS.png);
+    background-image: url(../AWARDS.png);
     background-attachment: fixed;
     background-position: 10% 150%;
 }
